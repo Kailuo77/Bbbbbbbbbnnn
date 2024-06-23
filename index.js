@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://2311e303-057a-4d35-a2b5-c7b397c7a67c-00-3g854c9x4gg1b.sisko.replit.dev/";
+var hostURL="https://bbbbbbbbbnnn.onrender.com/";
 //TOGGLE for Shorters
 var use1pt=false;
 
